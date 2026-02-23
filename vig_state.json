@@ -1,39 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 47,
+  "event_count": 39,
   "events": [
-    [
-      "2026-02-22",
-      "A Vandorkutya"
-    ],
-    [
-      "2026-02-22",
-      "A Vándorkutya"
-    ],
-    [
-      "2026-02-22",
-      "Frankenstein A Modern Prometheusz"
-    ],
-    [
-      "2026-02-22",
-      "Frankenstein – A modern Prométheusz"
-    ],
-    [
-      "2026-02-22",
-      "Lovatett Lovagok"
-    ],
-    [
-      "2026-02-22",
-      "Lóvátett lovagok"
-    ],
-    [
-      "2026-02-22",
-      "Vigtour 2"
-    ],
-    [
-      "2026-02-22",
-      "VígTour"
-    ],
     [
       "2026-02-23",
       "A Pal Utcai Fiuk"
@@ -191,5 +159,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-02-22T04:49:06.120824+01:00"
+  "checked_at_budapest": "2026-02-23T04:54:01.079714+01:00"
 }
