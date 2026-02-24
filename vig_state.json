@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 39,
+  "event_count": 37,
   "events": [
-    [
-      "2026-02-23",
-      "A Pal Utcai Fiuk"
-    ],
-    [
-      "2026-02-23",
-      "A Pál utcai fiúk"
-    ],
     [
       "2026-02-24",
       "Egy Gyilkossag Mellekszalai"
@@ -159,5 +151,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-02-23T04:54:01.079714+01:00"
+  "checked_at_budapest": "2026-02-24T04:42:52.108017+01:00"
 }
