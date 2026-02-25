@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 133,
+  "event_count": 131,
   "events": [
-    [
-      "2026-02-24",
-      "Itt élet"
-    ],
-    [
-      "2026-02-24",
-      "Megrág, kiköp"
-    ],
     [
       "2026-02-25",
       "Extázis"
@@ -536,5 +528,5 @@
     ]
   ],
   "last_page": 7,
-  "checked_at_budapest": "2026-02-24T04:36:07.699183+01:00"
+  "checked_at_budapest": "2026-02-25T04:36:16.678369+01:00"
 }

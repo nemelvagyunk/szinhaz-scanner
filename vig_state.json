@@ -1,27 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 37,
+  "event_count": 32,
   "events": [
-    [
-      "2026-02-24",
-      "Egy Gyilkossag Mellekszalai"
-    ],
-    [
-      "2026-02-24",
-      "Egy gyilkosság mellékszálai"
-    ],
-    [
-      "2026-02-24",
-      "Liliomfi"
-    ],
-    [
-      "2026-02-24",
-      "Szivlapat"
-    ],
-    [
-      "2026-02-24",
-      "Szívlapát"
-    ],
     [
       "2026-02-25",
       "A Padlas"
@@ -151,5 +131,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-02-24T04:42:52.108017+01:00"
+  "checked_at_budapest": "2026-02-25T04:48:48.851746+01:00"
 }

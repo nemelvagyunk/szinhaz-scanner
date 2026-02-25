@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 112,
+  "event_count": 110,
   "events": [
-    [
-      "2026-02-24",
-      "Sokszor nem halunk meg"
-    ],
-    [
-      "2026-02-24",
-      "Szerelem"
-    ],
     [
       "2026-02-25",
       "Sokszor nem halunk meg"
@@ -451,5 +443,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-02-23T04:46:32.849435+01:00"
+  "checked_at_budapest": "2026-02-25T04:41:38.359301+01:00"
 }
