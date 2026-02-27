@@ -1,11 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 128,
+  "event_count": 127,
   "events": [
-    [
-      "2026-02-26",
-      "némacsend"
-    ],
     [
       "2026-02-27",
       "Megrág, kiköp"
@@ -516,5 +512,5 @@
     ]
   ],
   "last_page": 7,
-  "checked_at_budapest": "2026-02-26T04:33:26.240873+01:00"
+  "checked_at_budapest": "2026-02-27T04:30:00.019401+01:00"
 }

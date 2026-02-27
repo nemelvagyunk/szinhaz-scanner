@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 108,
+  "event_count": 106,
   "events": [
-    [
-      "2026-02-26",
-      "Sokszor nem halunk meg"
-    ],
-    [
-      "2026-02-26",
-      "Tartuffe"
-    ],
     [
       "2026-02-27",
       "Karácsonyozzatok velünk, vagy ússzatok haza"
@@ -435,5 +427,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-02-26T04:38:42.182754+01:00"
+  "checked_at_budapest": "2026-02-27T04:35:10.965190+01:00"
 }

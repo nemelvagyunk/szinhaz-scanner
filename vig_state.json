@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 30,
+  "event_count": 27,
   "events": [
-    [
-      "2026-02-26",
-      "A Padlas"
-    ],
-    [
-      "2026-02-26",
-      "A padlás"
-    ],
-    [
-      "2026-02-26",
-      "Mercedes Benz"
-    ],
     [
       "2026-02-27",
       "Frankenstein A Modern Prometheusz"
@@ -123,5 +111,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-02-26T04:45:48.925757+01:00"
+  "checked_at_budapest": "2026-02-27T04:42:21.150724+01:00"
 }
