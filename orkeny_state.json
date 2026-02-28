@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 106,
+  "event_count": 104,
   "events": [
-    [
-      "2026-02-27",
-      "Karácsonyozzatok velünk, vagy ússzatok haza"
-    ],
-    [
-      "2026-02-27",
-      "[ESCAPE] - a Donkihóte-projekt"
-    ],
     [
       "2026-02-28",
       "Azt meséld el, Pista!"
@@ -427,5 +419,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-02-27T04:35:10.965190+01:00"
+  "checked_at_budapest": "2026-02-28T04:15:48.458527+01:00"
 }
