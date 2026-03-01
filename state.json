@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 125,
+  "event_count": 122,
   "events": [
-    [
-      "2026-02-28",
-      "A Halál kilovagolt Perzsiából"
-    ],
-    [
-      "2026-02-28",
-      "Nyílt tárgyalás"
-    ],
-    [
-      "2026-02-28",
-      "Nyílt tárgyalás W(ork)S(hop)"
-    ],
     [
       "2026-03-01",
       "Főtitkárok"
@@ -504,5 +492,5 @@
     ]
   ],
   "last_page": 7,
-  "checked_at_budapest": "2026-02-28T04:10:42.175310+01:00"
+  "checked_at_budapest": "2026-03-01T04:41:26.242044+01:00"
 }

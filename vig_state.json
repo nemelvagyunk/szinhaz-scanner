@@ -1,70 +1,642 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 25,
+  "event_count": 168,
   "events": [
     [
-      "2026-02-28",
-      "A Rendes Lanyok Csendben Sirnak"
+      "2026-03-01",
+      "A Pal Utcai Fiuk"
     ],
     [
-      "2026-02-28",
-      "A rendes lányok csendben sírnak"
+      "2026-03-01",
+      "A Pál utcai fiúk"
     ],
     [
-      "2026-02-28",
+      "2026-03-01",
       "Az Allamtitkar Ur 1"
     ],
     [
-      "2026-02-28",
+      "2026-03-01",
       "Az államtitkár úr"
     ],
     [
-      "2026-02-28",
-      "Frankenstein A Modern Prometheusz"
+      "2026-03-01",
+      "Kelet Nyugati Palyaudvar"
     ],
     [
-      "2026-02-28",
-      "Frankenstein – A modern Prométheusz"
+      "2026-03-01",
+      "Kelet-nyugati pályaudvar"
+    ],
+    [
+      "2026-03-01",
+      "Vigtour 2"
+    ],
+    [
+      "2026-03-01",
+      "VígTour"
+    ],
+    [
+      "2026-03-03",
+      "A Pal Utcai Fiuk"
+    ],
+    [
+      "2026-03-03",
+      "A Pál utcai fiúk"
+    ],
+    [
+      "2026-03-03",
+      "Toldi"
     ],
     [
       "2026-03-03",
       "Tortenetek A Konyhambol Avagy Barbara Stand Up"
     ],
     [
+      "2026-03-03",
+      "Történetek a konyhámból, avagy Barbara, stand up!"
+    ],
+    [
+      "2026-03-04",
+      "A Pal Utcai Fiuk"
+    ],
+    [
+      "2026-03-04",
+      "A Pál utcai fiúk"
+    ],
+    [
+      "2026-03-04",
+      "Mondjad Atikam"
+    ],
+    [
+      "2026-03-04",
+      "Mondjad, Atikám!"
+    ],
+    [
       "2026-03-04",
       "Varom Valaszat Pa"
+    ],
+    [
+      "2026-03-04",
+      "Várom válaszát, pá!"
+    ],
+    [
+      "2026-03-05",
+      "A Padlas"
+    ],
+    [
+      "2026-03-05",
+      "A padlás"
+    ],
+    [
+      "2026-03-05",
+      "Az Allamtitkar Ur 1"
+    ],
+    [
+      "2026-03-05",
+      "Az államtitkár úr"
+    ],
+    [
+      "2026-03-06",
+      "A Dzsungel Konyve"
+    ],
+    [
+      "2026-03-06",
+      "A Padlas"
+    ],
+    [
+      "2026-03-06",
+      "A dzsungel könyve"
+    ],
+    [
+      "2026-03-06",
+      "A padlás"
     ],
     [
       "2026-03-06",
       "Rilke Est Felolvasoszinhaz"
     ],
     [
+      "2026-03-06",
+      "Rilke-est - felolvasószínház"
+    ],
+    [
+      "2026-03-07",
+      "Az Allamtitkar Ur 1"
+    ],
+    [
+      "2026-03-07",
+      "Az államtitkár úr"
+    ],
+    [
+      "2026-03-07",
+      "Pinokkio"
+    ],
+    [
+      "2026-03-07",
+      "Pinokkió"
+    ],
+    [
+      "2026-03-07",
+      "Rebbeno Pillantasok A Kihalas Peremerol"
+    ],
+    [
+      "2026-03-07",
+      "Rebbenő pillantások a kihalás pereméről"
+    ],
+    [
+      "2026-03-08",
+      "A Dzsungel Konyve"
+    ],
+    [
+      "2026-03-08",
+      "A dzsungel könyve"
+    ],
+    [
+      "2026-03-08",
+      "Frankenstein A Modern Prometheusz"
+    ],
+    [
+      "2026-03-08",
+      "Frankenstein – A modern Prométheusz"
+    ],
+    [
+      "2026-03-08",
+      "Rebbeno Pillantasok A Kihalas Peremerol"
+    ],
+    [
+      "2026-03-08",
+      "Rebbenő pillantások a kihalás pereméről"
+    ],
+    [
+      "2026-03-09",
+      "Amadeus"
+    ],
+    [
+      "2026-03-09",
+      "Magyar Elektra"
+    ],
+    [
+      "2026-03-10",
+      "Az Allamtitkar Ur 1"
+    ],
+    [
+      "2026-03-10",
+      "Az államtitkár úr"
+    ],
+    [
+      "2026-03-10",
+      "Frankenstein A Modern Prometheusz"
+    ],
+    [
+      "2026-03-10",
+      "Frankenstein – A modern Prométheusz"
+    ],
+    [
+      "2026-03-10",
+      "Nyilt Muhely 1"
+    ],
+    [
+      "2026-03-10",
+      "Rebbeno Pillantasok A Kihalas Peremerol"
+    ],
+    [
+      "2026-03-10",
+      "Rebbenő pillantások a kihalás pereméről"
+    ],
+    [
+      "2026-03-10",
+      "VígPro"
+    ],
+    [
+      "2026-03-11",
+      "Az Uvegcipo 1"
+    ],
+    [
+      "2026-03-11",
+      "Az üvegcipő"
+    ],
+    [
+      "2026-03-11",
+      "Egy Gyilkossag Mellekszalai"
+    ],
+    [
+      "2026-03-11",
+      "Egy gyilkosság mellékszálai"
+    ],
+    [
+      "2026-03-11",
+      "Lesz Ami Lesz"
+    ],
+    [
+      "2026-03-11",
+      "Lesz, ami lesz"
+    ],
+    [
+      "2026-03-12",
+      "Az Elet Mint Olyan"
+    ],
+    [
+      "2026-03-12",
+      "Az élet mint olyan"
+    ],
+    [
+      "2026-03-12",
+      "Buszkeseg Es Balitelet"
+    ],
+    [
+      "2026-03-12",
+      "Büszkeség és balítélet"
+    ],
+    [
+      "2026-03-12",
+      "Remsegek Kicsiny Boltja"
+    ],
+    [
+      "2026-03-12",
+      "Rémségek kicsiny boltja"
+    ],
+    [
+      "2026-03-13",
+      "Igazabol Komedia"
+    ],
+    [
+      "2026-03-13",
+      "Igazából komédia"
+    ],
+    [
+      "2026-03-13",
+      "Ismeretlen Taj"
+    ],
+    [
+      "2026-03-13",
+      "Ismeretlen táj"
+    ],
+    [
+      "2026-03-13",
+      "Konnyuvel Indul"
+    ],
+    [
+      "2026-03-13",
+      "Könnyűvel indul"
+    ],
+    [
+      "2026-03-14",
+      "A Diktator"
+    ],
+    [
+      "2026-03-14",
+      "A diktátor"
+    ],
+    [
+      "2026-03-14",
+      "Csath Es Demonai"
+    ],
+    [
+      "2026-03-14",
+      "Csáth és démonai"
+    ],
+    [
       "2026-03-14",
       "Janos Vitez"
+    ],
+    [
+      "2026-03-14",
+      "Jatszd Ujra Sam"
+    ],
+    [
+      "2026-03-14",
+      "János vitéz"
+    ],
+    [
+      "2026-03-14",
+      "Játszd újra, Sam!"
+    ],
+    [
+      "2026-03-17",
+      "Egy No Anatomiaja"
+    ],
+    [
+      "2026-03-17",
+      "Egy nő anatómiája"
+    ],
+    [
+      "2026-03-17",
+      "Liliomfi"
     ],
     [
       "2026-03-17",
       "Szivlapat"
     ],
     [
+      "2026-03-17",
+      "Szívlapát"
+    ],
+    [
+      "2026-03-18",
+      "Igazabol Komedia"
+    ],
+    [
+      "2026-03-18",
+      "Igazából komédia"
+    ],
+    [
+      "2026-03-18",
+      "Ismeretlen Taj"
+    ],
+    [
+      "2026-03-18",
+      "Ismeretlen táj"
+    ],
+    [
+      "2026-03-18",
+      "Konnyuvel Indul"
+    ],
+    [
+      "2026-03-18",
+      "Könnyűvel indul"
+    ],
+    [
+      "2026-03-19",
+      "A Rendes Lanyok Csendben Sirnak"
+    ],
+    [
+      "2026-03-19",
+      "A rendes lányok csendben sírnak"
+    ],
+    [
+      "2026-03-19",
+      "Frankenstein A Modern Prometheusz"
+    ],
+    [
+      "2026-03-19",
+      "Frankenstein – A modern Prométheusz"
+    ],
+    [
+      "2026-03-19",
+      "Lovatett Lovagok"
+    ],
+    [
+      "2026-03-19",
+      "Lóvátett lovagok"
+    ],
+    [
       "2026-03-19",
       "Tortenetek A Konyhambol Avagy Barbara Stand Up"
+    ],
+    [
+      "2026-03-19",
+      "Történetek a konyhámból, avagy Barbara, stand up!"
+    ],
+    [
+      "2026-03-20",
+      "Apa Szeme Fenye Gold Digger"
+    ],
+    [
+      "2026-03-20",
+      "Apa szeme fénye – Gold Digger"
+    ],
+    [
+      "2026-03-20",
+      "Buszkeseg Es Balitelet"
+    ],
+    [
+      "2026-03-20",
+      "Büszkeség és balítélet"
+    ],
+    [
+      "2026-03-20",
+      "Remsegek Kicsiny Boltja"
+    ],
+    [
+      "2026-03-20",
+      "Rémségek kicsiny boltja"
+    ],
+    [
+      "2026-03-21",
+      "A Vandorkutya"
+    ],
+    [
+      "2026-03-21",
+      "A Vándorkutya"
+    ],
+    [
+      "2026-03-21",
+      "Bezzeg Az En Idomben Az En Idom Akkor Es Most"
+    ],
+    [
+      "2026-03-21",
+      "Bezzeg az én időmben! – Az „én időm” akkor és most"
+    ],
+    [
+      "2026-03-21",
+      "Liliomfi"
+    ],
+    [
+      "2026-03-22",
+      "@LL3t4rgIA #éretlen komédia"
+    ],
+    [
+      "2026-03-22",
+      "Kepzelt Beteg"
+    ],
+    [
+      "2026-03-22",
+      "Képzelt beteg"
+    ],
+    [
+      "2026-03-22",
+      "Ll3T4Rgia Eretlen Komedia"
+    ],
+    [
+      "2026-03-22",
+      "Mielőtt elrepül"
     ],
     [
       "2026-03-22",
       "Szalon Felolvaso"
     ],
     [
+      "2026-03-23",
+      "A Nagy Gatsby"
+    ],
+    [
+      "2026-03-23",
+      "A nagy Gatsby"
+    ],
+    [
+      "2026-03-24",
+      "Igazabol Komedia"
+    ],
+    [
+      "2026-03-24",
+      "Igazából komédia"
+    ],
+    [
+      "2026-03-24",
+      "Ismeretlen Taj"
+    ],
+    [
+      "2026-03-24",
+      "Ismeretlen táj"
+    ],
+    [
+      "2026-03-24",
+      "Konnyuvel Indul"
+    ],
+    [
+      "2026-03-24",
+      "Könnyűvel indul"
+    ],
+    [
+      "2026-03-25",
+      "Baratom Harvey"
+    ],
+    [
+      "2026-03-25",
+      "Barátom, Harvey"
+    ],
+    [
+      "2026-03-25",
+      "Csoda"
+    ],
+    [
+      "2026-03-25",
+      "Toldi"
+    ],
+    [
+      "2026-03-26",
+      "@LL3t4rgIA #éretlen komédia"
+    ],
+    [
+      "2026-03-26",
+      "Egy Gyilkossag Mellekszalai"
+    ],
+    [
+      "2026-03-26",
+      "Egy gyilkosság mellékszálai"
+    ],
+    [
+      "2026-03-26",
+      "Ll3T4Rgia Eretlen Komedia"
+    ],
+    [
+      "2026-03-26",
+      "Mielőtt elrepül"
+    ],
+    [
+      "2026-03-26",
+      "Pesti Polgar"
+    ],
+    [
+      "2026-03-26",
+      "Pesti polgár"
+    ],
+    [
       "2026-03-26",
       "Szalon Felolvaso"
+    ],
+    [
+      "2026-03-27",
+      "A Pal Utcai Fiuk"
+    ],
+    [
+      "2026-03-27",
+      "A Pál utcai fiúk"
+    ],
+    [
+      "2026-03-27",
+      "A Rendes Lanyok Csendben Sirnak"
+    ],
+    [
+      "2026-03-27",
+      "A rendes lányok csendben sírnak"
+    ],
+    [
+      "2026-03-27",
+      "Igazabol Komedia"
+    ],
+    [
+      "2026-03-27",
+      "Igazából komédia"
+    ],
+    [
+      "2026-03-28",
+      "@LL3t4rgIA #éretlen komédia"
+    ],
+    [
+      "2026-03-28",
+      "A Dzsungel Konyve"
+    ],
+    [
+      "2026-03-28",
+      "A dzsungel könyve"
+    ],
+    [
+      "2026-03-28",
+      "Az Elet Mint Olyan"
+    ],
+    [
+      "2026-03-28",
+      "Az élet mint olyan"
+    ],
+    [
+      "2026-03-28",
+      "Ll3T4Rgia Eretlen Komedia"
     ],
     [
       "2026-03-28",
       "Szalon Impro"
     ],
     [
+      "2026-03-28",
+      "Vigtour 2"
+    ],
+    [
+      "2026-03-28",
+      "VígTour"
+    ],
+    [
+      "2026-03-29",
+      "Buszkeseg Es Balitelet"
+    ],
+    [
+      "2026-03-29",
+      "Büszkeség és balítélet"
+    ],
+    [
+      "2026-03-29",
+      "Madame Tartuffe"
+    ],
+    [
       "2026-03-29",
       "Sommerreise"
+    ],
+    [
+      "2026-03-30",
+      "A Nagy Gatsby"
+    ],
+    [
+      "2026-03-30",
+      "A nagy Gatsby"
+    ],
+    [
+      "2026-03-31",
+      "Az Ember Aki Elvesztette Az Idot"
+    ],
+    [
+      "2026-03-31",
+      "Az Imposztor"
+    ],
+    [
+      "2026-03-31",
+      "Az ember, aki elvesztette az időt"
+    ],
+    [
+      "2026-03-31",
+      "Az imposztor"
+    ],
+    [
+      "2026-03-31",
+      "Mercedes Benz"
     ],
     [
       "2026-04-02",
@@ -103,5 +675,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-02-28T04:22:58.089849+01:00"
+  "checked_at_budapest": "2026-03-01T04:53:33.072401+01:00"
 }

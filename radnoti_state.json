@@ -1,131 +1,7 @@
 {
-  "latest_date": "2027-01-31",
-  "event_count": 112,
+  "latest_date": "2027-02-28",
+  "event_count": 83,
   "events": [
-    [
-      "2026-02-02",
-      "A PÁRNAEMBER"
-    ],
-    [
-      "2026-02-03",
-      "PARASZTOPERA"
-    ],
-    [
-      "2026-02-04",
-      "GYEREKEK"
-    ],
-    [
-      "2026-02-05",
-      "OIDIPUSZ"
-    ],
-    [
-      "2026-02-06",
-      "LEGKÖZELEBBI EMBER"
-    ],
-    [
-      "2026-02-08",
-      "3TÉL"
-    ],
-    [
-      "2026-02-09",
-      "PARASZTOPERA"
-    ],
-    [
-      "2026-02-10",
-      "ISTENTELEN IFJÚSÁG"
-    ],
-    [
-      "2026-02-11",
-      "FUTÓTŰZ"
-    ],
-    [
-      "2026-02-12",
-      "HŰTLENEK"
-    ],
-    [
-      "2026-02-13",
-      "GYEREKEK"
-    ],
-    [
-      "2026-02-13",
-      "HŰTLENEK"
-    ],
-    [
-      "2026-02-14",
-      "MOST, MIKOR A VERS ÚJRA DIVATBA JÖTT"
-    ],
-    [
-      "2026-02-14",
-      "ÉN, DANIEL BLAKE"
-    ],
-    [
-      "2026-02-16",
-      "3TÉL"
-    ],
-    [
-      "2026-02-17",
-      "OIDIPUSZ"
-    ],
-    [
-      "2026-02-18",
-      "GYEREKEK"
-    ],
-    [
-      "2026-02-19",
-      "PARASZTOPERA"
-    ],
-    [
-      "2026-02-20",
-      "GYEREKEK"
-    ],
-    [
-      "2026-02-20",
-      "KOSZTOLÁNYI – BÁLINT ANDRÁS ESTJE"
-    ],
-    [
-      "2026-02-21",
-      "PARASZTOPERA"
-    ],
-    [
-      "2026-02-22",
-      "ANGYALOK AMERIKÁBAN – ELSŐ RÉSZ: KÜSZÖBÖN AZ EZREDFORDULÓ"
-    ],
-    [
-      "2026-02-22",
-      "NEM BESZÉLVE ARRÓL, HOGY…"
-    ],
-    [
-      "2026-02-24",
-      "OIDIPUSZ"
-    ],
-    [
-      "2026-02-25",
-      "EGY PIACI NAP"
-    ],
-    [
-      "2026-02-25",
-      "GRECSÓ KRISZTIÁN: OTT MARADTOK EGYMÁSNAK"
-    ],
-    [
-      "2026-02-25",
-      "HŰTLENEK"
-    ],
-    [
-      "2026-02-26",
-      "EGY PIACI NAP"
-    ],
-    [
-      "2026-02-26",
-      "GRECSÓ KRISZTIÁN: OTT MARADTOK EGYMÁSNAK"
-    ],
-    [
-      "2026-02-27",
-      "EGY PIACI NAP"
-    ],
-    [
-      "2026-02-28",
-      "EGY PIACI NAP"
-    ],
     [
       "2026-03-01",
       "EGY PIACI NAP"
@@ -449,7 +325,15 @@
     [
       "2027-01-31",
       "?"
+    ],
+    [
+      "2027-02-01",
+      "?"
+    ],
+    [
+      "2027-02-28",
+      "?"
     ]
   ],
-  "checked_at_budapest": "2026-02-28T04:16:30.979518+01:00"
+  "checked_at_budapest": "2026-03-01T04:47:06.046578+01:00"
 }
