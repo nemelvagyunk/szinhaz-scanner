@@ -1,39 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 168,
+  "event_count": 160,
   "events": [
-    [
-      "2026-03-01",
-      "A Pal Utcai Fiuk"
-    ],
-    [
-      "2026-03-01",
-      "A Pál utcai fiúk"
-    ],
-    [
-      "2026-03-01",
-      "Az Allamtitkar Ur 1"
-    ],
-    [
-      "2026-03-01",
-      "Az államtitkár úr"
-    ],
-    [
-      "2026-03-01",
-      "Kelet Nyugati Palyaudvar"
-    ],
-    [
-      "2026-03-01",
-      "Kelet-nyugati pályaudvar"
-    ],
-    [
-      "2026-03-01",
-      "Vigtour 2"
-    ],
-    [
-      "2026-03-01",
-      "VígTour"
-    ],
     [
       "2026-03-03",
       "A Pal Utcai Fiuk"
@@ -675,5 +643,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-01T04:53:33.072401+01:00"
+  "checked_at_budapest": "2026-03-02T04:42:51.535372+01:00"
 }

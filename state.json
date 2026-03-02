@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 122,
+  "event_count": 120,
   "events": [
-    [
-      "2026-03-01",
-      "Főtitkárok"
-    ],
-    [
-      "2026-03-01",
-      "KOMOLYAN RÖHEJES VAGYOK"
-    ],
     [
       "2026-03-02",
       "KOMOLYAN RÖHEJES VAGYOK"
@@ -491,6 +483,6 @@
       "némacsend"
     ]
   ],
-  "last_page": 7,
-  "checked_at_budapest": "2026-03-01T04:41:26.242044+01:00"
+  "last_page": 6,
+  "checked_at_budapest": "2026-03-02T04:30:46.440650+01:00"
 }
