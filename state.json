@@ -1,11 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 120,
+  "event_count": 119,
   "events": [
-    [
-      "2026-03-02",
-      "KOMOLYAN RÖHEJES VAGYOK"
-    ],
     [
       "2026-03-03",
       "KOMOLYAN RÖHEJES VAGYOK"
@@ -484,5 +480,5 @@
     ]
   ],
   "last_page": 6,
-  "checked_at_budapest": "2026-03-02T04:30:46.440650+01:00"
+  "checked_at_budapest": "2026-03-03T04:33:50.262415+01:00"
 }

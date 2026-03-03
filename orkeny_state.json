@@ -1,11 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 100,
+  "event_count": 99,
   "events": [
-    [
-      "2026-03-02",
-      "Kertész utcai Shaxpeare-mosó"
-    ],
     [
       "2026-03-03",
       "Az ajtó"
@@ -403,5 +399,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-02T04:35:42.265408+01:00"
+  "checked_at_budapest": "2026-03-03T04:38:43.538154+01:00"
 }
