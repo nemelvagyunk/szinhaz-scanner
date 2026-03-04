@@ -1,27 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 160,
+  "event_count": 155,
   "events": [
-    [
-      "2026-03-03",
-      "A Pal Utcai Fiuk"
-    ],
-    [
-      "2026-03-03",
-      "A Pál utcai fiúk"
-    ],
-    [
-      "2026-03-03",
-      "Toldi"
-    ],
-    [
-      "2026-03-03",
-      "Tortenetek A Konyhambol Avagy Barbara Stand Up"
-    ],
-    [
-      "2026-03-03",
-      "Történetek a konyhámból, avagy Barbara, stand up!"
-    ],
     [
       "2026-03-04",
       "A Pal Utcai Fiuk"
@@ -643,5 +623,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-03T04:45:51.077105+01:00"
+  "checked_at_budapest": "2026-03-04T04:38:01.037177+01:00"
 }
