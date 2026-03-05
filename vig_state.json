@@ -1,31 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 155,
+  "event_count": 149,
   "events": [
-    [
-      "2026-03-04",
-      "A Pal Utcai Fiuk"
-    ],
-    [
-      "2026-03-04",
-      "A Pál utcai fiúk"
-    ],
-    [
-      "2026-03-04",
-      "Mondjad Atikam"
-    ],
-    [
-      "2026-03-04",
-      "Mondjad, Atikám!"
-    ],
-    [
-      "2026-03-04",
-      "Varom Valaszat Pa"
-    ],
-    [
-      "2026-03-04",
-      "Várom válaszát, pá!"
-    ],
     [
       "2026-03-05",
       "A Padlas"
@@ -623,5 +599,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-04T04:38:01.037177+01:00"
+  "checked_at_budapest": "2026-03-05T04:40:50.507052+01:00"
 }

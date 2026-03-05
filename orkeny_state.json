@@ -1,11 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 97,
+  "event_count": 96,
   "events": [
-    [
-      "2026-03-04",
-      "Bűn és Bűnhődés"
-    ],
     [
       "2026-03-05",
       "33 változat Haydn-koponyára angol felirattal"
@@ -391,5 +387,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-04T04:30:49.784878+01:00"
+  "checked_at_budapest": "2026-03-05T04:33:39.777877+01:00"
 }
