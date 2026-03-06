@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 96,
+  "event_count": 93,
   "events": [
-    [
-      "2026-03-05",
-      "33 változat Haydn-koponyára angol felirattal"
-    ],
-    [
-      "2026-03-05",
-      "Pedig én jó anya voltam"
-    ],
-    [
-      "2026-03-05",
-      "Workshop a Megmenteni bárkit c. előadáshoz"
-    ],
     [
       "2026-03-06",
       "A nyúl füle"
@@ -387,5 +375,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-05T04:33:39.777877+01:00"
+  "checked_at_budapest": "2026-03-06T04:31:52.003442+01:00"
 }

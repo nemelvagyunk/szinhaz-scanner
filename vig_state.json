@@ -1,23 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 149,
+  "event_count": 145,
   "events": [
-    [
-      "2026-03-05",
-      "A Padlas"
-    ],
-    [
-      "2026-03-05",
-      "A padlás"
-    ],
-    [
-      "2026-03-05",
-      "Az Allamtitkar Ur 1"
-    ],
-    [
-      "2026-03-05",
-      "Az államtitkár úr"
-    ],
     [
       "2026-03-06",
       "A Dzsungel Konyve"
@@ -599,5 +583,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-05T04:40:50.507052+01:00"
+  "checked_at_budapest": "2026-03-06T04:39:03.138268+01:00"
 }
