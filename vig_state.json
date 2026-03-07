@@ -1,31 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 145,
+  "event_count": 139,
   "events": [
-    [
-      "2026-03-06",
-      "A Dzsungel Konyve"
-    ],
-    [
-      "2026-03-06",
-      "A Padlas"
-    ],
-    [
-      "2026-03-06",
-      "A dzsungel könyve"
-    ],
-    [
-      "2026-03-06",
-      "A padlás"
-    ],
-    [
-      "2026-03-06",
-      "Rilke Est Felolvasoszinhaz"
-    ],
-    [
-      "2026-03-06",
-      "Rilke-est - felolvasószínház"
-    ],
     [
       "2026-03-07",
       "Az Allamtitkar Ur 1"
@@ -583,5 +559,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-06T04:39:03.138268+01:00"
+  "checked_at_budapest": "2026-03-07T04:26:35.778797+01:00"
 }

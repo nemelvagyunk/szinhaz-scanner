@@ -1,11 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 93,
+  "event_count": 92,
   "events": [
-    [
-      "2026-03-06",
-      "A nyúl füle"
-    ],
     [
       "2026-03-07",
       "A nyúl füle"
@@ -375,5 +371,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-06T04:31:52.003442+01:00"
+  "checked_at_budapest": "2026-03-07T04:19:23.335200+01:00"
 }
