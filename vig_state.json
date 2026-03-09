@@ -1,31 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 133,
+  "event_count": 127,
   "events": [
-    [
-      "2026-03-08",
-      "A Dzsungel Konyve"
-    ],
-    [
-      "2026-03-08",
-      "A dzsungel könyve"
-    ],
-    [
-      "2026-03-08",
-      "Frankenstein A Modern Prometheusz"
-    ],
-    [
-      "2026-03-08",
-      "Frankenstein – A modern Prométheusz"
-    ],
-    [
-      "2026-03-08",
-      "Rebbeno Pillantasok A Kihalas Peremerol"
-    ],
-    [
-      "2026-03-08",
-      "Rebbenő pillantások a kihalás pereméről"
-    ],
     [
       "2026-03-09",
       "Amadeus"
@@ -535,5 +511,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-08T04:42:28.471886+01:00"
+  "checked_at_budapest": "2026-03-09T04:46:46.266440+01:00"
 }

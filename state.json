@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 114,
+  "event_count": 111,
   "events": [
-    [
-      "2026-03-08",
-      "A Halál kilovagolt Perzsiából"
-    ],
-    [
-      "2026-03-08",
-      "Changes"
-    ],
-    [
-      "2026-03-08",
-      "olasz"
-    ],
     [
       "2026-03-09",
       "Changes"
@@ -460,5 +448,5 @@
     ]
   ],
   "last_page": 6,
-  "checked_at_budapest": "2026-03-08T04:30:41.066336+01:00"
+  "checked_at_budapest": "2026-03-09T04:35:04.930771+01:00"
 }

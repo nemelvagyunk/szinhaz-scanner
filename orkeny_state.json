@@ -1,11 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 91,
+  "event_count": 90,
   "events": [
-    [
-      "2026-03-08",
-      "Momo"
-    ],
     [
       "2026-03-09",
       "Klara és a Nap"
@@ -367,5 +363,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-08T04:35:15.320193+01:00"
+  "checked_at_budapest": "2026-03-09T04:39:33.873463+01:00"
 }
