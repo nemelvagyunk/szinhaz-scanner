@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-04-30",
-  "event_count": 111,
+  "event_count": 108,
   "events": [
-    [
-      "2026-03-09",
-      "Changes"
-    ],
-    [
-      "2026-03-09",
-      "Octogon"
-    ],
-    [
-      "2026-03-09",
-      "némacsend"
-    ],
     [
       "2026-03-10",
       "Chicago"
@@ -448,5 +436,5 @@
     ]
   ],
   "last_page": 6,
-  "checked_at_budapest": "2026-03-09T04:35:04.930771+01:00"
+  "checked_at_budapest": "2026-03-10T04:26:55.343012+01:00"
 }

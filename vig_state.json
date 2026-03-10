@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-04-26",
-  "event_count": 127,
+  "event_count": 125,
   "events": [
-    [
-      "2026-03-09",
-      "Amadeus"
-    ],
-    [
-      "2026-03-09",
-      "Magyar Elektra"
-    ],
     [
       "2026-03-10",
       "Az Allamtitkar Ur 1"
@@ -511,5 +503,5 @@
       "Varom Valaszat Pa"
     ]
   ],
-  "checked_at_budapest": "2026-03-09T04:46:46.266440+01:00"
+  "checked_at_budapest": "2026-03-10T04:38:00.568667+01:00"
 }
