@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 88,
+  "event_count": 85,
   "events": [
-    [
-      "2026-03-10",
-      "Az orosz barát"
-    ],
-    [
-      "2026-03-10",
-      "Klara és a Nap"
-    ],
-    [
-      "2026-03-10",
-      "Ostromdressz"
-    ],
     [
       "2026-03-11",
       "Az orosz barát"
@@ -355,5 +343,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-10T04:30:48.830812+01:00"
+  "checked_at_budapest": "2026-03-11T04:30:05.236292+01:00"
 }

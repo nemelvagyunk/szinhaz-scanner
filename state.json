@@ -1,15 +1,7 @@
 {
-  "latest_date": "2026-04-30",
-  "event_count": 108,
+  "latest_date": "2026-05-31",
+  "event_count": 170,
   "events": [
-    [
-      "2026-03-10",
-      "Chicago"
-    ],
-    [
-      "2026-03-10",
-      "Mester és Margarita"
-    ],
     [
       "2026-03-11",
       "Dante: Pokol"
@@ -433,8 +425,264 @@
     [
       "2026-04-30",
       "némacsend"
+    ],
+    [
+      "2026-05-01",
+      "Főtitkárok"
+    ],
+    [
+      "2026-05-02",
+      "Chicago"
+    ],
+    [
+      "2026-05-02",
+      "Mester és Margarita"
+    ],
+    [
+      "2026-05-03",
+      "Changes"
+    ],
+    [
+      "2026-05-03",
+      "Octogon"
+    ],
+    [
+      "2026-05-03",
+      "némacsend"
+    ],
+    [
+      "2026-05-04",
+      "Hedda Gabler"
+    ],
+    [
+      "2026-05-04",
+      "Sárszeg"
+    ],
+    [
+      "2026-05-05",
+      "Az üvegház"
+    ],
+    [
+      "2026-05-05",
+      "Rekviem"
+    ],
+    [
+      "2026-05-06",
+      "Káli holtak"
+    ],
+    [
+      "2026-05-06",
+      "Mesteremberek"
+    ],
+    [
+      "2026-05-07",
+      "Chicago"
+    ],
+    [
+      "2026-05-07",
+      "Dante: Pokol"
+    ],
+    [
+      "2026-05-07",
+      "Mester és Margarita"
+    ],
+    [
+      "2026-05-08",
+      "Extázis"
+    ],
+    [
+      "2026-05-08",
+      "Pekingi ősz"
+    ],
+    [
+      "2026-05-09",
+      "A Halál kilovagolt Perzsiából"
+    ],
+    [
+      "2026-05-09",
+      "Nyílt tárgyalás"
+    ],
+    [
+      "2026-05-09",
+      "angol"
+    ],
+    [
+      "2026-05-10",
+      "Magányos emberek"
+    ],
+    [
+      "2026-05-10",
+      "Médeia"
+    ],
+    [
+      "2026-05-10",
+      "Shakespeare/Nádasdy/WH/Katona"
+    ],
+    [
+      "2026-05-11",
+      "Itt élet"
+    ],
+    [
+      "2026-05-12",
+      "Egy komcsi nyanya vagyok"
+    ],
+    [
+      "2026-05-12",
+      "Octogon"
+    ],
+    [
+      "2026-05-12",
+      "némacsend"
+    ],
+    [
+      "2026-05-13",
+      "2031"
+    ],
+    [
+      "2026-05-13",
+      "Egy nyár"
+    ],
+    [
+      "2026-05-13",
+      "Saját [?] szoba"
+    ],
+    [
+      "2026-05-14",
+      "Az üvegház"
+    ],
+    [
+      "2026-05-14",
+      "Changes"
+    ],
+    [
+      "2026-05-14",
+      "Rekviem"
+    ],
+    [
+      "2026-05-15",
+      "Changes"
+    ],
+    [
+      "2026-05-15",
+      "Octogon"
+    ],
+    [
+      "2026-05-15",
+      "némacsend"
+    ],
+    [
+      "2026-05-16",
+      "Káli holtak"
+    ],
+    [
+      "2026-05-16",
+      "Mesteremberek"
+    ],
+    [
+      "2026-05-16",
+      "Sorstalanság"
+    ],
+    [
+      "2026-05-17",
+      "Chicago"
+    ],
+    [
+      "2026-05-17",
+      "Mester és Margarita"
+    ],
+    [
+      "2026-05-18",
+      "A Halál kilovagolt Perzsiából"
+    ],
+    [
+      "2026-05-18",
+      "Nyílt tárgyalás"
+    ],
+    [
+      "2026-05-19",
+      "Changes"
+    ],
+    [
+      "2026-05-19",
+      "Rekviem"
+    ],
+    [
+      "2026-05-20",
+      "EMBTRAG"
+    ],
+    [
+      "2026-05-21",
+      "Itt élet"
+    ],
+    [
+      "2026-05-21",
+      "Megrág, kiköp"
+    ],
+    [
+      "2026-05-22",
+      "Cigány Mózes"
+    ],
+    [
+      "2026-05-22",
+      "Sárszeg"
+    ],
+    [
+      "2026-05-23",
+      "Chicago"
+    ],
+    [
+      "2026-05-23",
+      "Mester és Margarita"
+    ],
+    [
+      "2026-05-25",
+      "Az üvegház"
+    ],
+    [
+      "2026-05-25",
+      "Rekviem"
+    ],
+    [
+      "2026-05-25",
+      "VisszHang"
+    ],
+    [
+      "2026-05-26",
+      "2031"
+    ],
+    [
+      "2026-05-26",
+      "Dante: Purgatórium - Paradicsom"
+    ],
+    [
+      "2026-05-29",
+      "Isten, haza, család"
+    ],
+    [
+      "2026-05-29",
+      "Sorstalanság"
+    ],
+    [
+      "2026-05-30",
+      "A zseni"
+    ],
+    [
+      "2026-05-30",
+      "Hedda Gabler"
+    ],
+    [
+      "2026-05-30",
+      "Megrág, kiköp"
+    ],
+    [
+      "2026-05-31",
+      "Extázis"
+    ],
+    [
+      "2026-05-31",
+      "Pekingi ősz"
     ]
   ],
-  "last_page": 6,
-  "checked_at_budapest": "2026-03-10T04:26:55.343012+01:00"
+  "last_page": 9,
+  "checked_at_budapest": "2026-03-11T04:26:19.595308+01:00"
 }

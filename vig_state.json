@@ -1,39 +1,7 @@
 {
-  "latest_date": "2026-04-26",
+  "latest_date": "2026-05-27",
   "event_count": 125,
   "events": [
-    [
-      "2026-03-10",
-      "Az Allamtitkar Ur 1"
-    ],
-    [
-      "2026-03-10",
-      "Az államtitkár úr"
-    ],
-    [
-      "2026-03-10",
-      "Frankenstein A Modern Prometheusz"
-    ],
-    [
-      "2026-03-10",
-      "Frankenstein – A modern Prométheusz"
-    ],
-    [
-      "2026-03-10",
-      "Nyilt Muhely 1"
-    ],
-    [
-      "2026-03-10",
-      "Rebbeno Pillantasok A Kihalas Peremerol"
-    ],
-    [
-      "2026-03-10",
-      "Rebbenő pillantások a kihalás pereméről"
-    ],
-    [
-      "2026-03-10",
-      "VígPro"
-    ],
     [
       "2026-03-11",
       "Az Uvegcipo 1"
@@ -501,7 +469,39 @@
     [
       "2026-04-26",
       "Varom Valaszat Pa"
+    ],
+    [
+      "2026-05-05",
+      "Tortenetek A Konyhambol Avagy Barbara Stand Up"
+    ],
+    [
+      "2026-05-07",
+      "Vig Tarsalgo"
+    ],
+    [
+      "2026-05-15",
+      "Sommerreise"
+    ],
+    [
+      "2026-05-16",
+      "Tortenetek A Konyhambol Avagy Barbara Stand Up"
+    ],
+    [
+      "2026-05-17",
+      "Varom Valaszat Pa"
+    ],
+    [
+      "2026-05-21",
+      "Versmegzenesites Challenge"
+    ],
+    [
+      "2026-05-23",
+      "Szalon Impro"
+    ],
+    [
+      "2026-05-27",
+      "Szivlapat"
     ]
   ],
-  "checked_at_budapest": "2026-03-10T04:38:00.568667+01:00"
+  "checked_at_budapest": "2026-03-11T04:37:21.477435+01:00"
 }
