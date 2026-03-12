@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-05-31",
-  "event_count": 170,
+  "event_count": 167,
   "events": [
-    [
-      "2026-03-11",
-      "Dante: Pokol"
-    ],
-    [
-      "2026-03-11",
-      "Káli holtak"
-    ],
-    [
-      "2026-03-11",
-      "Mesteremberek"
-    ],
     [
       "2026-03-12",
       "Itt élet"
@@ -684,5 +672,5 @@
     ]
   ],
   "last_page": 9,
-  "checked_at_budapest": "2026-03-11T04:26:19.595308+01:00"
+  "checked_at_budapest": "2026-03-12T04:32:33.087315+01:00"
 }

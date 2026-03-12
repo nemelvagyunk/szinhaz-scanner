@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 85,
+  "event_count": 83,
   "events": [
-    [
-      "2026-03-11",
-      "Az orosz barát"
-    ],
-    [
-      "2026-03-11",
-      "Ostromdressz"
-    ],
     [
       "2026-03-12",
       "A Darvas"
@@ -343,5 +335,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-11T04:30:05.236292+01:00"
+  "checked_at_budapest": "2026-03-12T04:36:14.204251+01:00"
 }
