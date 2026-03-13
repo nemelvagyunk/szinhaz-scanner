@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-05-05",
-  "event_count": 83,
+  "event_count": 81,
   "events": [
-    [
-      "2026-03-12",
-      "A Darvas"
-    ],
-    [
-      "2026-03-12",
-      "Sokszor nem halunk meg"
-    ],
     [
       "2026-03-13",
       "Sokszor nem halunk meg"
@@ -335,5 +327,5 @@
       "Trójában nem lesz háború"
     ]
   ],
-  "checked_at_budapest": "2026-03-12T04:36:14.204251+01:00"
+  "checked_at_budapest": "2026-03-13T04:33:00.793752+01:00"
 }

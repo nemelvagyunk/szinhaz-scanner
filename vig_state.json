@@ -1,31 +1,7 @@
 {
   "latest_date": "2026-05-27",
-  "event_count": 119,
+  "event_count": 113,
   "events": [
-    [
-      "2026-03-12",
-      "Az Elet Mint Olyan"
-    ],
-    [
-      "2026-03-12",
-      "Az élet mint olyan"
-    ],
-    [
-      "2026-03-12",
-      "Buszkeseg Es Balitelet"
-    ],
-    [
-      "2026-03-12",
-      "Büszkeség és balítélet"
-    ],
-    [
-      "2026-03-12",
-      "Remsegek Kicsiny Boltja"
-    ],
-    [
-      "2026-03-12",
-      "Rémségek kicsiny boltja"
-    ],
     [
       "2026-03-13",
       "Igazabol Komedia"
@@ -479,5 +455,5 @@
       "Szivlapat"
     ]
   ],
-  "checked_at_budapest": "2026-03-12T04:43:24.134943+01:00"
+  "checked_at_budapest": "2026-03-13T04:40:16.831933+01:00"
 }
