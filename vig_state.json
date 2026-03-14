@@ -1,31 +1,7 @@
 {
   "latest_date": "2026-05-27",
-  "event_count": 113,
+  "event_count": 107,
   "events": [
-    [
-      "2026-03-13",
-      "Igazabol Komedia"
-    ],
-    [
-      "2026-03-13",
-      "Igazából komédia"
-    ],
-    [
-      "2026-03-13",
-      "Ismeretlen Taj"
-    ],
-    [
-      "2026-03-13",
-      "Ismeretlen táj"
-    ],
-    [
-      "2026-03-13",
-      "Konnyuvel Indul"
-    ],
-    [
-      "2026-03-13",
-      "Könnyűvel indul"
-    ],
     [
       "2026-03-14",
       "A Diktator"
@@ -455,5 +431,5 @@
       "Szivlapat"
     ]
   ],
-  "checked_at_budapest": "2026-03-13T04:40:16.831933+01:00"
+  "checked_at_budapest": "2026-03-14T04:41:31.151312+01:00"
 }

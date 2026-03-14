@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-05-31",
-  "event_count": 164,
+  "event_count": 162,
   "events": [
-    [
-      "2026-03-13",
-      "Extázis"
-    ],
-    [
-      "2026-03-13",
-      "Pekingi ősz"
-    ],
     [
       "2026-03-14",
       "Changes"
@@ -660,5 +652,5 @@
     ]
   ],
   "last_page": 9,
-  "checked_at_budapest": "2026-03-13T04:29:24.726394+01:00"
+  "checked_at_budapest": "2026-03-14T04:27:14.738793+01:00"
 }

@@ -1,6 +1,6 @@
 {
   "latest_date": "2027-02-28",
-  "event_count": 83,
+  "event_count": 114,
   "events": [
     [
       "2026-03-01",
@@ -243,6 +243,10 @@
       "A PÁRNAEMBER"
     ],
     [
+      "2026-04-25",
+      "KAPCSOLD LE A LÁMPÁT! || RIMPRÓ"
+    ],
+    [
       "2026-04-27",
       "ANGYALOK AMERIKÁBAN – ELSŐ RÉSZ: KÜSZÖBÖN AZ EZREDFORDULÓ"
     ],
@@ -255,20 +259,140 @@
       "KOSZTOLÁNYI – BÁLINT ANDRÁS ESTJE"
     ],
     [
-      "2026-05-01",
-      "?"
+      "2026-05-07",
+      "ANGYALOK AMERIKÁBAN – MÁSODIK RÉSZ: PERESZTROJKA"
+    ],
+    [
+      "2026-05-08",
+      "ANGYALOK AMERIKÁBAN – MÁSODIK RÉSZ: PERESZTROJKA"
+    ],
+    [
+      "2026-05-10",
+      "ANGYALOK AMERIKÁBAN – MÁSODIK RÉSZ: PERESZTROJKA"
+    ],
+    [
+      "2026-05-10",
+      "NEM BESZÉLVE ARRÓL, HOGY…"
+    ],
+    [
+      "2026-05-11",
+      "ERDŐSZELLEM, AVAGY A FÖLD AZ ŐRÜLT, AMELY MÉG A HÁTÁN HORD BENNETEKET"
+    ],
+    [
+      "2026-05-12",
+      "PARASZTOPERA"
+    ],
+    [
+      "2026-05-13",
+      "ANGYALOK AMERIKÁBAN – ELSŐ RÉSZ: KÜSZÖBÖN AZ EZREDFORDULÓ"
+    ],
+    [
+      "2026-05-14",
+      "ANGYALOK AMERIKÁBAN – MÁSODIK RÉSZ: PERESZTROJKA"
+    ],
+    [
+      "2026-05-15",
+      "ISTENTELEN IFJÚSÁG"
+    ],
+    [
+      "2026-05-16",
+      "ÉN, DANIEL BLAKE"
+    ],
+    [
+      "2026-05-18",
+      "3TÉL"
+    ],
+    [
+      "2026-05-18",
+      "MOST, MIKOR A VERS ÚJRA DIVATBA JÖTT"
+    ],
+    [
+      "2026-05-19",
+      "3TÉL"
+    ],
+    [
+      "2026-05-19",
+      "IKREK HAVA"
+    ],
+    [
+      "2026-05-20",
+      "ERDŐSZELLEM, AVAGY A FÖLD AZ ŐRÜLT, AMELY MÉG A HÁTÁN HORD BENNETEKET"
+    ],
+    [
+      "2026-05-21",
+      "ANGYALOK AMERIKÁBAN – ELSŐ RÉSZ: KÜSZÖBÖN AZ EZREDFORDULÓ"
+    ],
+    [
+      "2026-05-22",
+      "ANGYALOK AMERIKÁBAN – MÁSODIK RÉSZ: PERESZTROJKA"
+    ],
+    [
+      "2026-05-23",
+      "KELETI BLOKK"
+    ],
+    [
+      "2026-05-24",
+      "KELETI BLOKK"
+    ],
+    [
+      "2026-05-28",
+      "FUTÓTŰZ"
+    ],
+    [
+      "2026-05-28",
+      "KOSZTOLÁNYI – BÁLINT ANDRÁS ESTJE"
+    ],
+    [
+      "2026-05-30",
+      "HŰTLENEK"
     ],
     [
       "2026-05-31",
-      "?"
+      "HŰTLENEK"
     ],
     [
       "2026-06-01",
-      "?"
+      "ERDŐSZELLEM, AVAGY A FÖLD AZ ŐRÜLT, AMELY MÉG A HÁTÁN HORD BENNETEKET"
     ],
     [
-      "2026-06-30",
-      "?"
+      "2026-06-01",
+      "KELETI BLOKK"
+    ],
+    [
+      "2026-06-02",
+      "GYEREKEK"
+    ],
+    [
+      "2026-06-02",
+      "KELETI BLOKK"
+    ],
+    [
+      "2026-06-03",
+      "OIDIPUSZ"
+    ],
+    [
+      "2026-06-04",
+      "PARASZTOPERA"
+    ],
+    [
+      "2026-06-07",
+      "DARVAS FERI 80"
+    ],
+    [
+      "2026-06-08",
+      "3TÉL"
+    ],
+    [
+      "2026-06-09",
+      "ANGYALOK AMERIKÁBAN – ELSŐ RÉSZ: KÜSZÖBÖN AZ EZREDFORDULÓ"
+    ],
+    [
+      "2026-06-10",
+      "ANGYALOK AMERIKÁBAN – MÁSODIK RÉSZ: PERESZTROJKA"
+    ],
+    [
+      "2026-06-12",
+      "MAGVETŐ-EST | BALKÁN NAGYOPERETT"
     ],
     [
       "2026-07-01",
@@ -335,5 +459,5 @@
       "?"
     ]
   ],
-  "checked_at_budapest": "2026-03-13T04:33:45.681980+01:00"
+  "checked_at_budapest": "2026-03-14T04:34:57.536327+01:00"
 }
