@@ -1,19 +1,7 @@
 {
   "latest_date": "2026-05-31",
-  "event_count": 162,
+  "event_count": 159,
   "events": [
-    [
-      "2026-03-14",
-      "Changes"
-    ],
-    [
-      "2026-03-14",
-      "Octogon"
-    ],
-    [
-      "2026-03-14",
-      "némacsend"
-    ],
     [
       "2026-03-16",
       "Chicago"
@@ -651,6 +639,6 @@
       "Pekingi ősz"
     ]
   ],
-  "last_page": 9,
-  "checked_at_budapest": "2026-03-14T04:27:14.738793+01:00"
+  "last_page": 8,
+  "checked_at_budapest": "2026-03-15T04:50:49.249299+01:00"
 }

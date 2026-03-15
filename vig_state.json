@@ -1,39 +1,7 @@
 {
   "latest_date": "2026-05-27",
-  "event_count": 107,
+  "event_count": 99,
   "events": [
-    [
-      "2026-03-14",
-      "A Diktator"
-    ],
-    [
-      "2026-03-14",
-      "A diktátor"
-    ],
-    [
-      "2026-03-14",
-      "Csath Es Demonai"
-    ],
-    [
-      "2026-03-14",
-      "Csáth és démonai"
-    ],
-    [
-      "2026-03-14",
-      "Janos Vitez"
-    ],
-    [
-      "2026-03-14",
-      "Jatszd Ujra Sam"
-    ],
-    [
-      "2026-03-14",
-      "János vitéz"
-    ],
-    [
-      "2026-03-14",
-      "Játszd újra, Sam!"
-    ],
     [
       "2026-03-17",
       "Egy No Anatomiaja"
@@ -431,5 +399,5 @@
       "Szivlapat"
     ]
   ],
-  "checked_at_budapest": "2026-03-14T04:41:31.151312+01:00"
+  "checked_at_budapest": "2026-03-15T05:04:54.200649+01:00"
 }

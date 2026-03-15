@@ -1,15 +1,7 @@
 {
   "latest_date": "2026-06-10",
-  "event_count": 146,
+  "event_count": 144,
   "events": [
-    [
-      "2026-03-14",
-      "Sokszor nem halunk meg"
-    ],
-    [
-      "2026-03-14",
-      "Szerelem"
-    ],
     [
       "2026-03-16",
       "Egy Életem: Csákányi Eszter"
@@ -587,5 +579,5 @@
       "A Villa Esterházy javára"
     ]
   ],
-  "checked_at_budapest": "2026-03-14T04:34:16.293345+01:00"
+  "checked_at_budapest": "2026-03-15T04:57:43.516647+01:00"
 }
